@@ -2,7 +2,12 @@
 CRM de clientes con Dashboard general y por cliente
 ![image](https://user-images.githubusercontent.com/70233261/140946366-9ff2432c-b0ac-4d30-924c-0e1fa43b02d1.png)
 
-* Nota * : para las operaciones SQL puedes usar la consola o phpmyadmin
+![image](https://user-images.githubusercontent.com/70233261/140946626-49c69118-2087-46b3-bd48-a9f040b5b162.png)
+
+![image](https://user-images.githubusercontent.com/70233261/140946693-804057e5-3535-458d-8cb1-721f20dab0b4.png)
+
+
+* Nota *: para las operaciones SQL puedes usar la consola o phpmyadmin
 
 1. Copia todos estos archivos a tu carpeta pública, si estás en Windows con XAMPP, es en C:\xampp\htdocs\crm (si no existe, crea la carpeta)
 2. Crea la base de datos en MySQL
